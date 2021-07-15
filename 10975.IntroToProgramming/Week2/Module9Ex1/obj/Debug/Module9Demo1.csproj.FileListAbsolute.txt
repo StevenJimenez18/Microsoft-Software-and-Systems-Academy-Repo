@@ -1,0 +1,14 @@
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Module9Demo1\bin\Debug\Module9Demo1.exe.config
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Module9Demo1\bin\Debug\Module9Demo1.exe
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Module9Demo1\bin\Debug\Module9Demo1.pdb
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Module9Demo1\obj\Debug\Module9Demo1.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Module9Demo1\obj\Debug\Module9Demo1.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Module9Demo1\obj\Debug\Module9Demo1.exe
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Module9Demo1\obj\Debug\Module9Demo1.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\10975.IntroToProgramming\Week2\Module9Ex1\bin\Debug\Module9Demo1.exe.config
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\10975.IntroToProgramming\Week2\Module9Ex1\bin\Debug\Module9Demo1.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\10975.IntroToProgramming\Week2\Module9Ex1\bin\Debug\Module9Demo1.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\10975.IntroToProgramming\Week2\Module9Ex1\obj\Debug\Module9Demo1.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\10975.IntroToProgramming\Week2\Module9Ex1\obj\Debug\Module9Demo1.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\10975.IntroToProgramming\Week2\Module9Ex1\obj\Debug\Module9Demo1.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\10975.IntroToProgramming\Week2\Module9Ex1\obj\Debug\Module9Demo1.pdb
