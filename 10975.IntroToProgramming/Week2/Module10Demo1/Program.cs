@@ -31,6 +31,17 @@ namespace Module10Demo1
             st.Push(num1); //Boxing
             int num3 = (int)st.Pop(); //UnBoxing
 
+
+
+            Test obj = new Test(); //F-reachable queue - maintined in memory
+            obj.Dispose();
+
+
+            using(Test o1 = new Test())
+            {
+
+            }
+
             Console.ReadLine();
 
         }
