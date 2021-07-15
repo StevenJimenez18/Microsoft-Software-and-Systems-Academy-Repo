@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day3\Module4Demo1\bin\Debug\Module4Demo1.exe.config
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day3\Module4Demo1\bin\Debug\Module4Demo1.exe
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day3\Module4Demo1\bin\Debug\Module4Demo1.pdb
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day3\Module4Demo1\obj\Debug\Module4Demo1.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day3\Module4Demo1\obj\Debug\Module4Demo1.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day3\Module4Demo1\obj\Debug\Module4Demo1.exe
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day3\Module4Demo1\obj\Debug\Module4Demo1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day3\Day3Ex3\obj\Debug\Day3Ex3.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day3\Day3Ex3\obj\Debug\Day3Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day3\Day3Ex3\bin\Debug\Day3Ex3.exe.config
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day3\Day3Ex3\bin\Debug\Day3Ex3.exe
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day3\Day3Ex3\bin\Debug\Day3Ex3.pdb
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day3\Day3Ex3\obj\Debug\Day3Ex3.exe
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day3\Day3Ex3\obj\Debug\Day3Ex3.pdb

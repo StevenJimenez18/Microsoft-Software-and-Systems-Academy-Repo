@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Module7Ex1\bin\Debug\Module7Ex1.exe.config
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Module7Ex1\bin\Debug\Module7Ex1.exe
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Module7Ex1\bin\Debug\Module7Ex1.pdb
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Module7Ex1\obj\Debug\Module7Ex1.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Module7Ex1\obj\Debug\Module7Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Module7Ex1\obj\Debug\Module7Ex1.exe
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Module7Ex1\obj\Debug\Module7Ex1.pdb

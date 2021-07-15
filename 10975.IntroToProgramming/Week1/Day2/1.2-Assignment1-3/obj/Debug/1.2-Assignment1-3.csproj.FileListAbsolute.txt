@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day2\1.2-Assignment1-3\bin\Debug\1.2-Assignment1-3.exe.config
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day2\1.2-Assignment1-3\bin\Debug\1.2-Assignment1-3.exe
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day2\1.2-Assignment1-3\bin\Debug\1.2-Assignment1-3.pdb
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day2\1.2-Assignment1-3\obj\Debug\1.2-Assignment1-3.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day2\1.2-Assignment1-3\obj\Debug\1.2-Assignment1-3.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day2\1.2-Assignment1-3\obj\Debug\1.2-Assignment1-3.exe
+C:\Users\Steven\Desktop\MSSA\10975.Week1\Day2\1.2-Assignment1-3\obj\Debug\1.2-Assignment1-3.pdb

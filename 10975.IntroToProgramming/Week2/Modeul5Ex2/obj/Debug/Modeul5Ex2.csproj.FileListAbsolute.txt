@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Modeul5Ex2\bin\Debug\Modeul5Ex2.exe.config
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Modeul5Ex2\bin\Debug\Modeul5Ex2.exe
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Modeul5Ex2\bin\Debug\Modeul5Ex2.pdb
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Modeul5Ex2\obj\Debug\Modeul5Ex2.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Modeul5Ex2\obj\Debug\Modeul5Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Modeul5Ex2\obj\Debug\Modeul5Ex2.exe
+C:\Users\Steven\Desktop\MSSA\10975.IntroToProgramming\Week2\Modeul5Ex2\obj\Debug\Modeul5Ex2.pdb
