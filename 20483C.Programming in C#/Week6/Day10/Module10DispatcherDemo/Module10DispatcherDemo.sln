@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module10DispatcherDemo", "Module10DispatcherDemo\Module10DispatcherDemo.csproj", "{635141FE-B5AE-4FD5-A897-4511C50A7970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{635141FE-B5AE-4FD5-A897-4511C50A7970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635141FE-B5AE-4FD5-A897-4511C50A7970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635141FE-B5AE-4FD5-A897-4511C50A7970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635141FE-B5AE-4FD5-A897-4511C50A7970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {410ADFAE-F660-45A0-83E3-F511D83AF992}
+	EndGlobalSection
+EndGlobal

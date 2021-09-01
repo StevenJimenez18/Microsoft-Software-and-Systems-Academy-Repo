@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\LINQDemoPart2\bin\Debug\LINQDemoPart2.exe.config
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\LINQDemoPart2\bin\Debug\LINQDemoPart2.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\LINQDemoPart2\bin\Debug\LINQDemoPart2.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\LINQDemoPart2\obj\Debug\LINQDemoPart2.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\LINQDemoPart2\obj\Debug\LINQDemoPart2.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\LINQDemoPart2\obj\Debug\LINQDemoPart2.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\LINQDemoPart2\obj\Debug\LINQDemoPart2.pdb

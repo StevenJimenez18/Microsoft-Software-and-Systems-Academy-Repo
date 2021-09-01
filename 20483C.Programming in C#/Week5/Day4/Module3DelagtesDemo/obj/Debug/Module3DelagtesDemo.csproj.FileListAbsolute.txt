@@ -1,0 +1,10 @@
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3DelagtesDemo\obj\Debug\Module3DelagtesDemo.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3DelagtesDemo\obj\Debug\Module3DelagtesDemo.Form1.resources
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3DelagtesDemo\obj\Debug\Module3DelagtesDemo.Properties.Resources.resources
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3DelagtesDemo\obj\Debug\Module3DelagtesDemo.csproj.GenerateResource.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3DelagtesDemo\obj\Debug\Module3DelagtesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3DelagtesDemo\bin\Debug\Module3DelagtesDemo.exe.config
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3DelagtesDemo\bin\Debug\Module3DelagtesDemo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3DelagtesDemo\bin\Debug\Module3DelagtesDemo.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3DelagtesDemo\obj\Debug\Module3DelagtesDemo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3DelagtesDemo\obj\Debug\Module3DelagtesDemo.pdb

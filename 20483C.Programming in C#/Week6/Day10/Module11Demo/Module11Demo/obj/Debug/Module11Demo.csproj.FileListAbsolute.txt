@@ -1,0 +1,8 @@
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module11Demo\Module11Demo\bin\Debug\Module11Demo.exe.config
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module11Demo\Module11Demo\bin\Debug\Module11Demo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module11Demo\Module11Demo\bin\Debug\Module11Demo.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module11Demo\Module11Demo\obj\Debug\Module11Demo.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module11Demo\Module11Demo\obj\Debug\Module11Demo.csproj.ResolveComReference.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module11Demo\Module11Demo\obj\Debug\Module11Demo.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module11Demo\Module11Demo\obj\Debug\Module11Demo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module11Demo\Module11Demo\obj\Debug\Module11Demo.pdb

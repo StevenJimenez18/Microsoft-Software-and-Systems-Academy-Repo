@@ -1,0 +1,17 @@
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6Ex1\bin\Debug\Module6Ex1.exe.config
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6Ex1\bin\Debug\Module6Ex1.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6Ex1\bin\Debug\Module6Ex1.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6Ex1\obj\Debug\Module6Ex1.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6Ex1\obj\Debug\Module6Ex1.Form1.resources
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6Ex1\obj\Debug\Module6Ex1.Properties.Resources.resources
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6Ex1\obj\Debug\Module6Ex1.csproj.GenerateResource.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6Ex1\obj\Debug\Module6Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6Ex1\obj\Debug\Module6Ex1.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6Ex1\obj\Debug\Module6Ex1.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6Ex1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6Ex1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6Ex1\obj\Debug\Module6Ex1.csproj.CopyComplete
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6Ex1\bin\Debug\Eco.Handles.dll
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6Ex1\bin\Debug\Eco.Interfaces.dll
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6Ex1\bin\Debug\Eco.LinqExtender.dll
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6Ex1\bin\Debug\System.Buffers.dll

@@ -1,0 +1,10 @@
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3IndexerDemo\bin\Debug\Module3IndexerDemo.exe.config
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3IndexerDemo\bin\Debug\Module3IndexerDemo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3IndexerDemo\bin\Debug\Module3IndexerDemo.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3IndexerDemo\obj\Debug\Module3IndexerDemo.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3IndexerDemo\obj\Debug\Module3IndexerDemo.Form1.resources
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3IndexerDemo\obj\Debug\Module3IndexerDemo.Properties.Resources.resources
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3IndexerDemo\obj\Debug\Module3IndexerDemo.csproj.GenerateResource.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3IndexerDemo\obj\Debug\Module3IndexerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3IndexerDemo\obj\Debug\Module3IndexerDemo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day4\Module3IndexerDemo\obj\Debug\Module3IndexerDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week4\Day2\Module2Ex2\bin\Debug\Module2Ex2.exe.config
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week4\Day2\Module2Ex2\bin\Debug\Module2Ex2.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week4\Day2\Module2Ex2\bin\Debug\Module2Ex2.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week4\Day2\Module2Ex2\obj\Debug\Module2Ex2.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week4\Day2\Module2Ex2\obj\Debug\Module2Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week4\Day2\Module2Ex2\obj\Debug\Module2Ex2.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week4\Day2\Module2Ex2\obj\Debug\Module2Ex2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6SerializationDemo\bin\Debug\Module6SerializationDemo.exe.config
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6SerializationDemo\bin\Debug\Module6SerializationDemo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6SerializationDemo\bin\Debug\Module6SerializationDemo.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6SerializationDemo\obj\Debug\Module6SerializationDemo.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6SerializationDemo\obj\Debug\Module6SerializationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6SerializationDemo\obj\Debug\Module6SerializationDemo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day7\Module6SerializationDemo\obj\Debug\Module6SerializationDemo.pdb

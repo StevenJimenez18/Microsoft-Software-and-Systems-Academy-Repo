@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10AsyncDemo\Module10AsyncDemo\bin\Debug\Module10AsyncDemo.exe.config
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10AsyncDemo\Module10AsyncDemo\bin\Debug\Module10AsyncDemo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10AsyncDemo\Module10AsyncDemo\bin\Debug\Module10AsyncDemo.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10AsyncDemo\Module10AsyncDemo\obj\Debug\Module10AsyncDemo.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10AsyncDemo\Module10AsyncDemo\obj\Debug\Module10AsyncDemo.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10AsyncDemo\Module10AsyncDemo\obj\Debug\Module10AsyncDemo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10AsyncDemo\Module10AsyncDemo\obj\Debug\Module10AsyncDemo.pdb

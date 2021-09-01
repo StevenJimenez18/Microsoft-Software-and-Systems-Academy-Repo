@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day6\Module4sortingDemo\bin\Debug\Module4sortingDemo.exe.config
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day6\Module4sortingDemo\bin\Debug\Module4sortingDemo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day6\Module4sortingDemo\bin\Debug\Module4sortingDemo.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day6\Module4sortingDemo\obj\Debug\Module4sortingDemo.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day6\Module4sortingDemo\obj\Debug\Module4sortingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day6\Module4sortingDemo\obj\Debug\Module4sortingDemo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day6\Module4sortingDemo\obj\Debug\Module4sortingDemo.pdb

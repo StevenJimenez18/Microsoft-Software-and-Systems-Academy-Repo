@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week7\Day12\ReflectionDemo\ReflectionDemo\bin\Debug\ReflectionDemo.exe.config
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week7\Day12\ReflectionDemo\ReflectionDemo\bin\Debug\ReflectionDemo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week7\Day12\ReflectionDemo\ReflectionDemo\bin\Debug\ReflectionDemo.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week7\Day12\ReflectionDemo\ReflectionDemo\obj\Debug\ReflectionDemo.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week7\Day12\ReflectionDemo\ReflectionDemo\obj\Debug\ReflectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week7\Day12\ReflectionDemo\ReflectionDemo\obj\Debug\ReflectionDemo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week7\Day12\ReflectionDemo\ReflectionDemo\obj\Debug\ReflectionDemo.pdb

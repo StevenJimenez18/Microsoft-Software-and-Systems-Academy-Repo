@@ -1,0 +1,15 @@
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10DispatcherDemo\Module10DispatcherDemo\obj\Debug\Module10DispatcherDemo.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10DispatcherDemo\Module10DispatcherDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10DispatcherDemo\Module10DispatcherDemo\obj\Debug\App.g.cs
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10DispatcherDemo\Module10DispatcherDemo\obj\Debug\Module10DispatcherDemo_MarkupCompile.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10DispatcherDemo\Module10DispatcherDemo\obj\Debug\Module10DispatcherDemo_MarkupCompile.lref
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10DispatcherDemo\Module10DispatcherDemo\bin\Debug\Module10DispatcherDemo.exe.config
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10DispatcherDemo\Module10DispatcherDemo\bin\Debug\Module10DispatcherDemo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10DispatcherDemo\Module10DispatcherDemo\bin\Debug\Module10DispatcherDemo.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10DispatcherDemo\Module10DispatcherDemo\obj\Debug\MainWindow.baml
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10DispatcherDemo\Module10DispatcherDemo\obj\Debug\Module10DispatcherDemo.g.resources
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10DispatcherDemo\Module10DispatcherDemo\obj\Debug\Module10DispatcherDemo.Properties.Resources.resources
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10DispatcherDemo\Module10DispatcherDemo\obj\Debug\Module10DispatcherDemo.csproj.GenerateResource.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10DispatcherDemo\Module10DispatcherDemo\obj\Debug\Module10DispatcherDemo.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10DispatcherDemo\Module10DispatcherDemo\obj\Debug\Module10DispatcherDemo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day12\Module10DispatcherDemo\Module10DispatcherDemo\obj\Debug\Module10DispatcherDemo.pdb

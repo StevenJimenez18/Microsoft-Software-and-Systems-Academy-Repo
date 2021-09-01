@@ -1,0 +1,33 @@
+﻿<Window x:Class="Module10DispatcherDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Module10DispatcherDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="btnGetTime" Content="Get Time" Click="btnGetTime_Click" Background="#FF069CF1" Width="100" Grid.Column="1" Grid.Row="1" Margin="0,0,10,20"/>
+        <Label Grid.Column="2" Grid.Row="1" x:Name ="lbTime" Content="Label" Width="200"></Label>
+        <Button x:Name="btnGetCoffees" Content="Get Coffees"  Click="btnGetCoffees_ClickAsync" Grid.Column="1" Grid.Row="2" Width="100"/>
+        <ListBox Name="lstCoffees" Grid.Column="2" Grid.Row="2" Width="200" Height="100" Grid.RowSpan="4" Margin="0,0,10,0"/>
+    </Grid>
+</Window>

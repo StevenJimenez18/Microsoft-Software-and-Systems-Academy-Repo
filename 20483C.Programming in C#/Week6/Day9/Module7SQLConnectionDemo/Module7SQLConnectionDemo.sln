@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module7SQLConnectionDemo", "Module7SQLConnectionDemo.csproj", "{66F4B0D4-2DA4-457A-8583-5AEAB2B51382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeLibrary", "..\EmployeeLibrary\EmployeeLibrary.csproj", "{1F662B5E-43A7-4841-ADA8-BEF4945AC23A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66F4B0D4-2DA4-457A-8583-5AEAB2B51382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F4B0D4-2DA4-457A-8583-5AEAB2B51382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F4B0D4-2DA4-457A-8583-5AEAB2B51382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F4B0D4-2DA4-457A-8583-5AEAB2B51382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F662B5E-43A7-4841-ADA8-BEF4945AC23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F662B5E-43A7-4841-ADA8-BEF4945AC23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F662B5E-43A7-4841-ADA8-BEF4945AC23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F662B5E-43A7-4841-ADA8-BEF4945AC23A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEFC556E-4924-4F9C-9D51-AD0A27C3BE81}
+	EndGlobalSection
+EndGlobal

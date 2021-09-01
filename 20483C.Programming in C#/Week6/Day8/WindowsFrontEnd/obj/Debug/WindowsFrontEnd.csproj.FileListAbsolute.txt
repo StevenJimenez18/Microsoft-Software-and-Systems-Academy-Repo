@@ -1,0 +1,13 @@
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\WindowsFrontEnd\bin\Debug\WindowsFrontEnd.exe.config
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\WindowsFrontEnd\bin\Debug\WindowsFrontEnd.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\WindowsFrontEnd\bin\Debug\WindowsFrontEnd.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\WindowsFrontEnd\bin\Debug\MathLibrary.dll
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\WindowsFrontEnd\bin\Debug\MathLibrary.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\WindowsFrontEnd\obj\Debug\WindowsFrontEnd.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\WindowsFrontEnd\obj\Debug\WindowsFrontEnd.Form1.resources
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\WindowsFrontEnd\obj\Debug\WindowsFrontEnd.Properties.Resources.resources
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\WindowsFrontEnd\obj\Debug\WindowsFrontEnd.csproj.GenerateResource.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\WindowsFrontEnd\obj\Debug\WindowsFrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\WindowsFrontEnd\obj\Debug\WindowsFrontEnd.csproj.CopyComplete
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\WindowsFrontEnd\obj\Debug\WindowsFrontEnd.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week6\Day8\WindowsFrontEnd\obj\Debug\WindowsFrontEnd.pdb

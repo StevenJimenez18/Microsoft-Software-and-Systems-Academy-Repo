@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day5\Module4GenericsDemo\obj\Debug\Module4GenericsDemo.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day5\Module4GenericsDemo\obj\Debug\Module4GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day5\Module4GenericsDemo\bin\Debug\Module4GenericsDemo.exe.config
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day5\Module4GenericsDemo\bin\Debug\Module4GenericsDemo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day5\Module4GenericsDemo\bin\Debug\Module4GenericsDemo.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day5\Module4GenericsDemo\obj\Debug\Module4GenericsDemo.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day5\Module4GenericsDemo\obj\Debug\Module4GenericsDemo.pdb

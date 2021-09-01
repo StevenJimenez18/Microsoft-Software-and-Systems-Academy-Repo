@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQJoinDemo", "LINQJoinDemo.csproj", "{32FE97EC-58E2-4B56-A821-3BE003B59C44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32FE97EC-58E2-4B56-A821-3BE003B59C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FE97EC-58E2-4B56-A821-3BE003B59C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FE97EC-58E2-4B56-A821-3BE003B59C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FE97EC-58E2-4B56-A821-3BE003B59C44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB28663E-B9FF-49BE-AEC5-26784C3A19D5}
+	EndGlobalSection
+EndGlobal

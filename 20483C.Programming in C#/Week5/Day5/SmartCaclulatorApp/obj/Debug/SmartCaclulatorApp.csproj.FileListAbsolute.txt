@@ -1,0 +1,10 @@
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day5\SmartCaclulatorApp\obj\Debug\SmartCaclulatorApp.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day5\SmartCaclulatorApp\obj\Debug\SmartCaclulatorApp.Form1.resources
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day5\SmartCaclulatorApp\obj\Debug\SmartCaclulatorApp.Properties.Resources.resources
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day5\SmartCaclulatorApp\obj\Debug\SmartCaclulatorApp.csproj.GenerateResource.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day5\SmartCaclulatorApp\obj\Debug\SmartCaclulatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day5\SmartCaclulatorApp\bin\Debug\SmartCaclulatorApp.exe.config
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day5\SmartCaclulatorApp\bin\Debug\SmartCaclulatorApp.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day5\SmartCaclulatorApp\bin\Debug\SmartCaclulatorApp.pdb
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day5\SmartCaclulatorApp\obj\Debug\SmartCaclulatorApp.exe
+C:\Users\Steven\Desktop\MSSA\Microsoft-Software-and-Systems-Academy-Repo\20483C.Programming in C#\Week5\Day5\SmartCaclulatorApp\obj\Debug\SmartCaclulatorApp.pdb
